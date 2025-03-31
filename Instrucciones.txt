@@ -1,0 +1,12 @@
+🔐 Instrucciones para usar BNB_ProteccionPDF
+
+1. Abre el archivo BNB_ProteccionPDF.exe
+2. Selecciona la carpeta donde tienes los archivos PDF sin restricciones.
+3. Selecciona la carpeta donde quieres guardar los archivos protegidos.
+4. Haz clic en "Aplicar restricciones".
+5. Espera a que el programa termine (puedes ver el progreso en el log).
+6. Usa el botón "Abrir carpeta de salida" para revisar los archivos protegidos.
+
+El programa se puede ejecutar en cualquier computadora con Windows, sin necesidad de instalar Python.
+
+Banco Nacional de Bolivia S.A. - Organización y Métodos - ©Sergio Santivañez
